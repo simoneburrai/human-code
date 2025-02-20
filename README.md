@@ -128,5 +128,35 @@ punti salienti:
 
 ### B. Scansionare un documento su più fogli fronte-retro.
 
+punti salienti:
+-pratica da scannerizzare;
+-fronte retro non automatico;
 
+**Verificare dispositivi**
 
+        -Verificare funzionamento computer;
+        -Verificare funzionamento scanner;
+        - Se lo scanner non è connesso al computer:
+            -connettere scanner al computer.
+        - Prendere la pratica da scannerizzare.
+        Per ogni foglio della pratica:
+            -posizionarlo all'interno dello scanner;
+            -avviare scan;
+            -se scan non è andata a buon fina:
+               -ripeti scansione;
+            -rimuovi foglio dalo scanner;
+            -se il foglio ha anche un retro:
+                -girare foglio;
+                -posizionarlo all'inderno dello scanner;
+                -avviare scan;
+                -se scan non è andata a buon fine:
+                    -ripeti scansione;
+                -rimuovi foglio dallo scanner;
+             Se i fogli scannerizzati sono minori di 1:
+                - poggiare foglio col primo verso scannerizzato verso il basso.
+            -Altrimenti:
+                -poggiare foglio col primo verso scannerizzato sopra il
+                 precedente foglio scannerizzato.
+                
+
+##### SCANSIONE COMPLETATA
