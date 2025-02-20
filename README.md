@@ -18,7 +18,6 @@ punti salienti:
 - contanti;
 - snack;
 
-#### Andare al supermercato.
 
 **Verifica di avere il necessario per la spesa**
 
@@ -63,9 +62,9 @@ punti salienti:
             - **muoviti**;
             - Finchè non trovi un elemento della lista:
                 - controlla gli scaffali del supermercato;
-            - Fermati;
-            - Afferra l'oggetto;
-            - Riponilo all'interno del carrello;
+                - Fermati;
+                - Afferra l'oggetto;
+                - Riponilo all'interno del carrello;
         - **muoviti** e cambia sezione;
 
 **Sezione Snack**
@@ -80,16 +79,51 @@ punti salienti:
         -  prendi lo snack che preferisci;
         - Mettilo nel carrello;
 
--**Pagare**
+**Pagare**
+
+    - **muoviti**
+    - Recati presso le casse;
+    - Fermati;
+    - Verifica quale cassa è aperta;
+        - Se solo una cassa è aperta:
+            -recati verso la cassa aperta;
+        - altrimenti: verifica quale cassa ha meno fila;
+            recati presso la cassa con meno fila;
+    - Finchè non è il tuo turno:
+        -aspetta;
+    -Finchè gli oggetti del carrello non sono terminati:
+        -prendi un oggetto dal carrello e mettilo nella cassa;
+    - Aspetta che la cassiera passi tutti gli oggetti;
+    -Chiedi alla cassiera delle buste;
+    - Inizia a imbustare;
+    -Se le buste non bastano, chiedi altre buste;
+    - Aspetta che ti venga detto il totale;
+    -Se il tuo coupon è ancora valido:
+        utilizza il coupon per ricevere lo sconto;
+    - Se il totale supera i tuoi contanti:
+        -paga con la carta;
+    -Altrimenti: paga in contanti;
+    -Finchè non hai terminato di imbustare:
+        -imbusta;
+    -riponi le buste all'interno del carrello;
+    -**muoviti** verso l'uscita;
+    -Esci dal supermercato;
+    -Recati presso la zona dei carrelli;
+    -Tira fuori le buste dal carrello;
+    -Poggia le buste;
+    -Riponi il carrello;
+    -Prendi la moneta;
+    -Prendi il portafogli;
+    -Inserisci la moneta nel portafogli;
+    -Riponi il portafogli nella tasca;
+    -Prendi Le buste della spesa;
+
+##### SPESA COMPLETATA
+        
+    
 
  
     
-
-
-
-
-    
-
 
 
 ### B. Scansionare un documento su più fogli fronte-retro.
